@@ -1,0 +1,8 @@
+---- manual/fomega ----       
+Spec              120         
+BP Spec           98          
+BP Syntax         204         
+BP Semantics      141         
+Metatheory        311         
+BOILERPLATE:      443         
+TOTAL:            874         

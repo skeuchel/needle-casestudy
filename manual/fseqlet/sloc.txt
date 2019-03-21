@@ -1,0 +1,8 @@
+---- manual/fseqlet ----      
+Spec              99          
+BP Spec           165         
+BP Syntax         249         
+BP Semantics      162         
+Metatheory        49          
+BOILERPLATE:      576         
+TOTAL:            724         

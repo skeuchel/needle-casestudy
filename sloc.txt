@@ -1,0 +1,90 @@
+---- manual/stlc ----    	---- needle_popl/stlc ----
+Spec              41          	Spec              36
+BP Spec           39          	BP Spec           0
+BP Syntax         23          	BP Syntax         0
+BP Semantics      22          	BP Semantics      0
+Metatheory        22          	Metatheory        18
+BOILERPLATE:      84          	BOILERPLATE:      0
+TOTAL:            147         	TOTAL:            54
+
+---- manual/stlcprod ----	---- needle_popl/stlcprod ----
+Spec              82          	Spec              75
+BP Spec           67          	BP Spec           0
+BP Syntax         32          	BP Syntax         0
+BP Semantics      71          	BP Semantics      0
+Metatheory        61          	Metatheory        74
+BOILERPLATE:      170         	BOILERPLATE:      0
+TOTAL:            313         	TOTAL:            149
+
+---- manual/f ----       	---- needle_popl/f ----
+Spec              51          	Spec              46
+BP Spec           102         	BP Spec           0
+BP Syntax         185         	BP Syntax         0
+BP Semantics      79          	BP Semantics      0
+Metatheory        29          	Metatheory        29
+BOILERPLATE:      366         	BOILERPLATE:      0
+TOTAL:            446         	TOTAL:            75
+
+---- manual/fexists ---- 	---- needle_popl/fexists ----
+Spec              71          	Spec              66
+BP Spec           114         	BP Spec           0
+BP Syntax         266         	BP Syntax         0
+BP Semantics      86          	BP Semantics      0
+Metatheory        43          	Metatheory        42
+BOILERPLATE:      466         	BOILERPLATE:      0
+TOTAL:            580         	TOTAL:            108
+
+---- manual/fprod ----   	---- needle_popl/fprod ----
+Spec              90          	Spec              85
+BP Spec           150         	BP Spec           0
+BP Syntax         230         	BP Syntax         0
+BP Semantics      136         	BP Semantics      0
+Metatheory        68          	Metatheory        86
+BOILERPLATE:      516         	BOILERPLATE:      0
+TOTAL:            674         	TOTAL:            171
+
+---- manual/fseqlet ---- 	---- needle_popl/fseqlet ----
+Spec              99          	Spec              88
+BP Spec           165         	BP Spec           0
+BP Syntax         249         	BP Syntax         0
+BP Semantics      162         	BP Semantics      0
+Metatheory        48          	Metatheory        69
+BOILERPLATE:      576         	BOILERPLATE:      0
+TOTAL:            723         	TOTAL:            157
+
+---- manual/fsub ----    	---- needle_popl/fsub ----
+Spec              66          	Spec              57
+BP Spec           117         	BP Spec           0
+BP Syntax         264         	BP Syntax         0
+BP Semantics      150         	BP Semantics      0
+Metatheory        160         	Metatheory        136
+BOILERPLATE:      531         	BOILERPLATE:      0
+TOTAL:            757         	TOTAL:            193
+
+---- manual/fsubprod ----	---- needle_popl/fsubprod ----
+Spec              110         	Spec              92
+BP Spec           155         	BP Spec           0
+BP Syntax         311         	BP Syntax         0
+BP Semantics      222         	BP Semantics      0
+Metatheory        243         	Metatheory        233
+BOILERPLATE:      688         	BOILERPLATE:      0
+TOTAL:            1041        	TOTAL:            325
+
+---- manual/lomega ----  	---- needle_popl/lomega ----
+Spec              97          	Spec              75
+BP Spec           88          	BP Spec           0
+BP Syntax         202         	BP Syntax         0
+BP Semantics      141         	BP Semantics      0
+Metatheory        249         	Metatheory        266
+BOILERPLATE:      431         	BOILERPLATE:      0
+TOTAL:            777         	TOTAL:            341
+
+---- manual/fomega ----  	---- needle_popl/fomega ----
+Spec              120         	Spec              92
+BP Spec           98          	BP Spec           0
+BP Syntax         204         	BP Syntax         0
+BP Semantics      141         	BP Semantics      0
+Metatheory        309         	Metatheory        328
+BOILERPLATE:      443         	BOILERPLATE:      0
+TOTAL:            872         	TOTAL:            420
+

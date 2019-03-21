@@ -1,0 +1,8 @@
+---- manual/fsub ----         
+Spec              66          
+BP Spec           117         
+BP Syntax         264         
+BP Semantics      150         
+Metatheory        163         
+BOILERPLATE:      531         
+TOTAL:            760         

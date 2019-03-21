@@ -1,0 +1,8 @@
+---- needle/stlcprod ----     
+Spec              75          
+BP Spec           0           
+BP Syntax         0           
+BP Semantics      0           
+Metatheory        75          
+BOILERPLATE:      0           
+TOTAL:            150         

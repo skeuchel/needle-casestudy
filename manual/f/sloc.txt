@@ -1,0 +1,8 @@
+---- manual/f ----            
+Spec              51          
+BP Spec           102         
+BP Syntax         185         
+BP Semantics      79          
+Metatheory        30          
+BOILERPLATE:      366         
+TOTAL:            447         

@@ -1,0 +1,8 @@
+---- needle/fseqlet ----      
+Spec              88          
+BP Spec           0           
+BP Syntax         0           
+BP Semantics      0           
+Metatheory        70          
+BOILERPLATE:      0           
+TOTAL:            158         

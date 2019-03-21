@@ -1,0 +1,8 @@
+---- manual/stlcprod ----     
+Spec              82          
+BP Spec           67          
+BP Syntax         32          
+BP Semantics      71          
+Metatheory        62          
+BOILERPLATE:      170         
+TOTAL:            314         

@@ -1,0 +1,8 @@
+---- needle/fexists ----      
+Spec              66          
+BP Spec           0           
+BP Syntax         0           
+BP Semantics      0           
+Metatheory        43          
+BOILERPLATE:      0           
+TOTAL:            109         

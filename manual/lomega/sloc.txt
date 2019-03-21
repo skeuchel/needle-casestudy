@@ -1,0 +1,8 @@
+---- manual/lomega ----       
+Spec              97          
+BP Spec           88          
+BP Syntax         202         
+BP Semantics      141         
+Metatheory        251         
+BOILERPLATE:      431         
+TOTAL:            779         
